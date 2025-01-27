@@ -53,7 +53,3 @@ The Social Media Timer & Blocker is a desktop application designed to help users
 - [tests](http://_vscodecontentref_/9): Unit tests for the application.
 - [logs](http://_vscodecontentref_/10): Log files.
 - [settings.json](http://_vscodecontentref_/11): JSON file to save user settings and timer states.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
